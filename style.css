@@ -129,15 +129,15 @@ h2{
 
 @media (max-width: 1000px){
 	h2{
-		margin-top: 2vh; 
+		margin-top: 0.5vh; 
 	}
 }
 
 @media (max-width: 414px){
 	h2{
 		line-height:25px;
-		margin-top: 2vh; 
-		font-size:20px;
+		margin-top: 1.5vh; 
+		font-size:18px;
 	}
 }
 
@@ -146,7 +146,6 @@ h2{
 		margin-top: 1vh; 
 		font-size:18px;
 	}
-}
 }
 
 #content p{
